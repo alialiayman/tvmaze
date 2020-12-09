@@ -1,5 +1,5 @@
+import { Button, Typography } from '@material-ui/core'
 import React from 'react'
-import { Grid, Typography, Button } from '@material-ui/core'
 
 const Show = ({ show }) => {
     return (
